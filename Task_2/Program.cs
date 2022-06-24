@@ -25,7 +25,7 @@ void Summa (int [] array)
 {   int s = 0;
     for (int i = 0; i < array.Length; i++)
     {
-        if (i % 2 != 0)
+        if (i % 2 != 0)  // Индекс данного числа при делении на два не должен давать остаток 0
         {
             s = s + array[i];
         }
