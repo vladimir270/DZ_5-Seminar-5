@@ -1,0 +1,15 @@
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /ДЗ 5 семинар/Task_2/obj/Debug/net6.0/Task_2.csproj.AssemblyReference.cache
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /ДЗ 5 семинар/Task_2/obj/Debug/net6.0/Task_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /ДЗ 5 семинар/Task_2/obj/Debug/net6.0/Task_2.AssemblyInfoInputs.cache
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /ДЗ 5 семинар/Task_2/obj/Debug/net6.0/Task_2.AssemblyInfo.cs
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /ДЗ 5 семинар/Task_2/obj/Debug/net6.0/Task_2.csproj.CoreCompileInputs.cache
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /ДЗ 5 семинар/Task_2/bin/Debug/net6.0/Task_2
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /ДЗ 5 семинар/Task_2/bin/Debug/net6.0/Task_2.deps.json
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /ДЗ 5 семинар/Task_2/bin/Debug/net6.0/Task_2.runtimeconfig.json
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /ДЗ 5 семинар/Task_2/bin/Debug/net6.0/Task_2.dll
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /ДЗ 5 семинар/Task_2/bin/Debug/net6.0/Task_2.pdb
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /ДЗ 5 семинар/Task_2/obj/Debug/net6.0/Task_2.dll
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /ДЗ 5 семинар/Task_2/obj/Debug/net6.0/refint/Task_2.dll
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /ДЗ 5 семинар/Task_2/obj/Debug/net6.0/Task_2.pdb
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /ДЗ 5 семинар/Task_2/obj/Debug/net6.0/Task_2.genruntimeconfig.cache
+/Users/volodia/Desktop/РАЗРАБОТЧИК /Знакомство с языками программирования /ДЗ 5 семинар/Task_2/obj/Debug/net6.0/ref/Task_2.dll
